@@ -2,8 +2,7 @@ Sou um profissional com experiência em atividades financeiras. Atualmente, esto
 ## My Skills
 
 #### Main Stack:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;https://github.com/rodolfohmoliveira/rodolfohmoliveira/blob/main/README.md
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
