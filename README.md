@@ -1,8 +1,8 @@
-
+Sou um profissional com experiência em atividades financeiras. Atualmente, estou imerso no estudo da tecnologia, reconhecendo a vasta sinergia entre finanças e inovação. Minha trajetória inclui uma passagem por uma empresa de tecnologia, onde atuei com a criação e manutenção de motores de análise de risco e tomada de decisão. Nessa função, aprofundei o uso de linguagem Java e integrações com APIs
 ## My Skills
 
 #### Main Stack:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;https://github.com/rodolfohmoliveira/rodolfohmoliveira/blob/main/README.md
 
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
