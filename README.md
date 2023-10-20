@@ -2,7 +2,7 @@
 
 <div align="center" style="margin-bottom: 100px;">
   <img width="46%" src="https://github-readme-streak-stats.herokuapp.com?user=rodolfohmoliveira&theme=white&mode=weekly" />
-  <img width="40%" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rodolfohmoliveira&show_icons=true&theme=white&layout=compact" />
+  <img width="39%" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rodolfohmoliveira&show_icons=true&theme=white&layout=compact" />
 </div>
 
 
