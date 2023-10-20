@@ -1,4 +1,4 @@
-## Sou um profissional com experiência em atividades financeiras. Atualmente, estou imerso no estudo da tecnologia, reconhecendo a vasta sinergia entre finanças e inovação. Minha trajetória inclui uma passagem por uma empresa de tecnologia, onde atuei com a criação e manutenção de motores de análise de risco e tomada de decisão. Nessa função, aprofundei o uso de linguagem Java e integrações com APIs
+## Sou um profissional com experiência em atividades financeiras. Atualmente, estou imerso no estudo da tecnologia, reconhecendo a vasta sinergia entre finanças e inovação. Minha trajetória inclui uma passagem por uma empresa de tecnologia, onde atuei com a criação e manutenção de motores de análise de risco e tomada de decisão. Nessa função, aprofundei o uso de linguagem Java e integrações com APIs  :bank::bar_chart::computer::heavy_check_mark:
 
 <div  align="center" style="margin-bottom:100px">
 <img width=46% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rodolfohmoliveira&theme=radical&mode=weekly" />
