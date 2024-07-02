@@ -1,4 +1,4 @@
-## Contador com 10 anos de experiência em finanças, atualmente em transição para tecnologia. Analista de sistemas com 15 meses de experiência em uma empresa B3, utilizando Java, MySQL. Cursando Análise e Desenvolvimento de Sistemas, com previsão de conclusão em dezembro de 2025. Aprimorando habilidades em Java, C# e Python por meio de cursos adicionais.
+## 10 anos de experiência em finanças, atualmente em transição para tecnologia. Analista de sistemas com 15 meses de experiência em uma empresa B3, utilizando Java, MySQL. Cursando Análise e Desenvolvimento de Sistemas, com previsão de conclusão em dezembro de 2025. Aprimorando habilidades em Java, C# e Python por meio de cursos adicionais.
 Minha trajetória inclui uma passagem por uma empresa de tecnologia, onde atuei com a criação e manutenção de motores de análise de risco e tomada de decisão. Nessa função, aprofundei o uso de linguagem Java e integrações com APIs  :bank::bar_chart::computer::heavy_check_mark:
 
 <div align="center" style="margin-bottom: 100px;">
